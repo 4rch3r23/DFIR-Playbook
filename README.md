@@ -1,5 +1,5 @@
 # DFIR-Playbook
-A typical DFIR Playbook\
+A typical DFIR Playbook
 ## To-Do
 * Active Windows Triage
 * Timeline
