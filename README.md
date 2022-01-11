@@ -17,3 +17,5 @@ A typical DFIR Playbook
     * CTFs
   * PostEx
     * Empire
+* Tool Research
+  * https://www.caine-live.net/
